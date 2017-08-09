@@ -1,0 +1,18 @@
+body {
+  background-color: #255b37;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  color: #b9d2da
+}
+
+h3 {
+  color: #b9d2da;
+}
+
+#results {
+  color: #d4d71f;
+  tab-size: 16px;
+}
